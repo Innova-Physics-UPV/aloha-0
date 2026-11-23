@@ -1,6 +1,6 @@
-# PROJECT_NAME
+# aloha-0
 
-PROJECT_DESCRIPTION
+ALOHA-0, the electron source of the ALOHA open-hardware accelerator.
 
 A project of [Innova Physics UPV](https://github.com/Innova-Physics-UPV), a student team of the Universitat Politècnica de València within Generación Espontánea. How the team works is in the [handbook](https://github.com/Innova-Physics-UPV/handbook).
 
